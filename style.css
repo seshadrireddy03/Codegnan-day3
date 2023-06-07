@@ -1,0 +1,104 @@
+body{
+    background-image: linear-gradient(to right,rgb(0, 0, 0), rgb(62, 61, 61));
+}
+
+.log{
+    position: absolute;
+    display: block;
+    margin-left:38%;
+    margin-top: 10%;
+    height: 20rem;
+    width:20rem;
+}
+
+h1{
+    margin-left: 35%;
+    margin-top: 10%;
+    margin-bottom: 10%;
+    color:bisque;
+}
+
+
+
+input{
+    color:black;
+    font-weight: 600;
+    background-color:bisque;
+    border: none;
+    font-size:small;
+}
+
+.lab{
+    font-size: large;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande';
+    font-weight: lighter;
+}
+
+.table1{
+    border-collapse: separate;
+    border-spacing:5px;
+    margin-left: 10%;
+    color:bisque;
+}
+
+.table2{
+    margin-top: 1%;
+    border-collapse: separate;
+    border-spacing:10px;
+    margin-left: 10%;
+    color:bisque;
+
+}
+
+.submit{
+    color:black;
+    background-color: bisque;
+    border: none;
+    font-size: medium;
+    font-weight: 700;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande';
+    position: relative;
+    left:50%;
+}    
+
+.psw{
+    color:bisque;
+    font-style:oblique;
+    text-decoration: none;
+}
+
+.sign{
+    
+    background-color: bisque;
+    border: none;
+    font-size: medium;
+    font-weight: 700;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande';
+    position: relative;
+    left:30%;
+    
+}
+
+a{
+    text-decoration: none;
+    color:black;
+}
+
+.table3{
+    border-collapse: separate;
+    border-spacing:10px;
+    margin-left: 10%;
+    color:bisque;
+}
+
+.submit1{
+    color:black;
+    background-color: bisque;
+    border: none;
+    font-size: medium;
+    font-weight: 700;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande';
+    position: relative;
+    margin-top: 10%;
+}
+
